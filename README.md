@@ -33,7 +33,7 @@ Just fork it and you are good to go.
 
 👤 **Piyush Singh Gaur**
 
-- Github: [@Piyush Singh Gaur](https://github.com/piyushsinghgaur)
+- Github: [@Alok Singh](https://github.com/aloksinghrcr65)
 - Linkedin: [Piyush Singh Gaur](https://www.linkedin.com/in/piyushsinghgaur/)
 - Email: (piyushsinghgaur01@gmail.com)
 
